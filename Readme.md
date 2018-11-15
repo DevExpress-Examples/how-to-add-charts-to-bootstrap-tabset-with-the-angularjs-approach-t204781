@@ -1,3 +1,7 @@
+<!-- default file list -->
+*Files to look at*:
+
+<!-- default file list end -->
 # How to add charts to bootstrap tabset with the AngularJS approach
 
 
