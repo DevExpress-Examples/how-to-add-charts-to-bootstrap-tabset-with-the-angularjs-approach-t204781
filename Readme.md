@@ -4,7 +4,7 @@
 <!-- default file list end -->
 # How to add charts to bootstrap tabset with the AngularJS approach
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t204781)**
+**[[Run Online]](https://codecentral.devexpress.com/t204781/)**
 <!-- run online end -->
 
 
